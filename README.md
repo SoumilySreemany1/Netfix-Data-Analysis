@@ -162,14 +162,14 @@ Dashboard visuals include:
 Below is the dashboard created for visual analysis:
 
 <p align="center">
-  <img src="Dashboard/netflix-user-analysis.png" width="900">
+  <img src="Dashboard/Netflix User Analysis Dashboard.png" width="900">
 </p>
 
 ---
 Below is the dashboard created for user analysis:
 
 <p align="center">
-<img src="Dashboard/netflix-dashboard-looker.png" width="900">
+<img src="Dashboard/Netflix Dashboard Using Looker Studio.png" width="900" >
 </p>
 
 ---
