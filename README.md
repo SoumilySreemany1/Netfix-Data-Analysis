@@ -105,7 +105,7 @@ Below is the dashboard created for visual analysis:
 Below is the dashboard created for user analysis:
 
 <p align="center">
-  <img src="Dashboard/Dashboard2.png" width="900">
+  <img src="Dashboard /Dashboard2.png" width="900">
 </p>
 
 ## 9. Conclusion
